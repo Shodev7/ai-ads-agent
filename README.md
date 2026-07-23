@@ -149,4 +149,4 @@ MCP сервер `meta-ads-mcp` использует BSL 1.1 (детали в р
 
 ## Поддержка
 
-Telegram: [@dreamm_assistant](https://t.me/dreamm_assistant)
+
